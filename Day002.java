@@ -3,8 +3,8 @@ public class Day002 {
         String nama = "Fitriani";
         String prodi = "Informatika";
         double tinggi = 1.2;
-        int umur = 21;
-        long tanggal_lahir = 26112002;
+        int umur = 2123456785;
+        long tanggal_lahir = 9223372036854775807L;
         byte angkatan = 21;
         short password = 13579;
 
