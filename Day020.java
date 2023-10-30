@@ -16,7 +16,7 @@ public class Day020 {
         Hewan objHewan = new Kucing(); // Upcasting dari Kucing ke Hewan
         objHewan.suara();
 
-        Kucing objKucing = (Kucing) objHewan; //Dowcasting dari Hewan ke kucing 
+        Kucing objKucing = (Kucing) objHewan; //Downcasting dari Hewan ke kucing 
         objKucing.makan();
     }
 }
