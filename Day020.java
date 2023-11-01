@@ -13,10 +13,10 @@ class Kucing extends Hewan {
 
 public class Day020 {
     public static void main(String[] args) {
-        Hewan objHewan = new Kucing(); // Upcasting dari Kucing ke Hewan
+        Hewan objHewan = new Kucing(); // Upcasting 
         objHewan.suara();
 
-        Kucing objKucing = (Kucing) objHewan; //Downcasting dari Hewan ke kucing 
+        Kucing objKucing = (Kucing) objHewan; //Downcasting 
         objKucing.makan();
     }
 }
