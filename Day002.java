@@ -2,7 +2,7 @@ public class Day002 {
     public static void main(String[] args) {
         String nama = "Fitriani";
         String prodi = "Informatika";
-        double tinggi = 1.2;
+        double tinggi = 1.3;
         int umur = 2123456785;
         long tanggal_lahir = 9223372036854775807L;
         byte angkatan = 21;
