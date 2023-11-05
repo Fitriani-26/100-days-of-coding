@@ -13,7 +13,7 @@ public class Day012 {
     
         System.out.println("Nama : " + nama + " , " + nama.toUpperCase() + " , " + nama.toLowerCase());
         System.out.println("Panjang Karakter : " + nama.length());
-        System.out.println("Huruf Awalan " + nama.charAt(0));
+        System.out.println("Huruf Awalan " + nama.charAt(nama.length()-1));
         System.out.println("Huruf " + cari + " = " + (nama.length() - nameTanpaCari.length()));
     }
     
