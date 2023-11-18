@@ -1,6 +1,6 @@
 public class Day039 {
     public static void main(String[] args) {
-        int bulan = 11;
+        int bulan = 10;
         String stringBulan;
         switch (bulan) {
             case 1:
