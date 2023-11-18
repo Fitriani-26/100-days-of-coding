@@ -45,5 +45,4 @@ public class Day039 {
         }
         System.out.println(stringBulan);
     }
-    
 }
